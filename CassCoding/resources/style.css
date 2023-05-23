@@ -1,0 +1,30 @@
+html {
+    width: 1250px;
+    font-size: 20px;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    align-items: center;
+}
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.me {
+    display: inline-flex;
+    font-size: 30px;
+    justify-content: space-around;
+}
+
+.me ul {
+    width: 30%;
+    height: auto;
+    align-self: center;
+}
